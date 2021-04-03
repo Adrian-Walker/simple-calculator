@@ -1,0 +1,21 @@
+.newDiv {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 25%;
+border: brown;
+}
+
+body{
+    background-color: yellow;
+}
+
+#multiply {
+    background-color: red;
+}
+#subtraction {
+    background-color: green;
+}
+#addition {
+    background-color: blue;
+}
